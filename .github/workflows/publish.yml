@@ -32,8 +32,9 @@ jobs:
         with:
           github-tag: "mc${{env.MINECRAFT_VERSION}}-${{env.MOD_VERSION}}"
           github-token: "${{env.GITHUB_TOKEN}}"
-          name: "${{env.RELEASE_NAME}}"
-          version: "${{env.VERSION}}"
+          name: "${{env.MOD_RELEASE_NAME}}"
+          version: "${{env.MOD_VERSION}}"
+          github-generate-changelog: true
           version-type: release
           loaders: fabric
           game-versions: "${{env.MINECRAFT_VERSION}}"
