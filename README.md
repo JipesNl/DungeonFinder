@@ -1,4 +1,4 @@
 # Dungeon Finder
 Simple mod to locate possible locations of dungeons by putting an end rod at their locations. Intended as a help for development of a future standalone tool.
 
-Made for minecraft version 1.19.4, fabric loader version 0.14.22 as well as fabric api version 0.87.0+1.19.4 (not actually used in the mod, will be removed later)
+DO NOT USE ON YOUR ACTUAL WORLD, you will have to regenerate any chunks generated when using this mod as it causes the generation of a lot of flying end rods. Just use it on a copy of your world.
