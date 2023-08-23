@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "id": "dungeonfinder",
-  "version": "${version}",
+  "version": "1.0.0",
   "name": "dungeonfinder",
   "description": "",
   "authors": [],
   "contact": {
-    "repo": "https://github.com/20221447/DungeonFinder"
+    "repo": "https://github.com/JipesNl/DungeonFinder"
   },
   "license": "All-Rights-Reserved",
   "icon": "assets/icon.png",
